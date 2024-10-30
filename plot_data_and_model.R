@@ -14,7 +14,7 @@ N0 <- 879 #
   
 r <- 0.0095218 #
   
-K <- 5.979e+10 #
+K <- 6.000e+10 #
 
 ggplot(aes(t,N), data = growth_data) +
   
